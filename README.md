@@ -1,2 +1,3 @@
 # kaggle-certificates
-Collection of Kaggle Learn Certificates
+Seohyeon's Collection of Kaggle Certificates
+Kaggle 수료증 모음

@@ -14,7 +14,7 @@
    - 다양한 머신러닝 알고리즘에 대한 이해를 바탕으로 딥러닝 모델을 효과적으로 구축하고 평가할 수 있습니다.
 
 4. **Pandas**
-   - 데이터 전처리와 분석을 위한 Pandas 라이브러리 사용법을 배웠습니다. 
+   - 데이터 전처리와 분석에 사용되는 Pandas를 배웠습니다. 
 
 ## 개인 프로젝트
 - [위성사진으로 산불 예측](https://www.kaggle.com/code/lapcbws/wildfire-classification/edit)

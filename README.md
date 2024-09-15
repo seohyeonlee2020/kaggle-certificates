@@ -16,7 +16,7 @@
 4. **Pandas**
    - 데이터 전처리와 분석에 사용되는 Pandas를 배웠습니다. 
 
-## 개인 프로젝트
+## 프로젝트
 - [위성사진으로 산불 예측](https://www.kaggle.com/code/lapcbws/wildfire-classification/edit)
 
 
